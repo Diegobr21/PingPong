@@ -1,5 +1,6 @@
 # PingPong
 PingPong game created with Unity/C#
 
-Proof of concept
-![Quick set](pingpongtest.mp4)
+## Last update, a quick set
+
+![Quick set](pingpongtest.gif)
